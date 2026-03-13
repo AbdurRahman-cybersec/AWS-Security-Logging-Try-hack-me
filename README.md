@@ -1,4 +1,3 @@
-# AWS Security Logging & Monitoring Lab
 
 ## Overview
 
